@@ -1,0 +1,18 @@
+ENTRADA
+1
+2
+3
+4
+5
+
+SAÍDA CAPTURADA
+Digite um numero inteiro positivo: Digite um numero inteiro positivo: Digite um numero inteiro positivo: Digite um numero inteiro positivo: Digite um numero inteiro positivo: 
+*** Numeros digitados ***
+1
+2
+3
+4
+5
+
+Quantidade de pares: 2
+Quantidade de impares: 3
