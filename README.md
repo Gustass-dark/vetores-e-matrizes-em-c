@@ -17,7 +17,7 @@ Linguagem C, biblioteca padrão stdio.h, arrays, for, do-while, if/else, operado
 
 Requer um compilador C, como GCC. No Windows, os comandos abaixo pressupõem GCC disponível no PATH.
 
-Baixe e extraia o projeto. Após a publicação no endereço proposto, você também poderá clonar com Git.
+Baixe e extraia o projeto ou clone com Git usando os comandos abaixo.
 
 ```bash
 git clone https://github.com/Gustass-dark/vetores-e-matrizes-em-c.git
@@ -62,9 +62,6 @@ O vetor repete a leitura quando recebe um inteiro menor ou igual a zero. Os prog
 
 Código desenvolvido por Gustavo Mesquita. A preparação para o portfólio organizou os arquivos e sua indentação, acrescentou documentação e .gitignore e conferiu execuções.
 
-## Pendências de entrega
+## Licença
 
-O código está sob a licença MIT, disponível em LICENSE.
-- Publicar e fixar o repositório no perfil.
-
-Topics sugeridos `c`, `algoritmos`, `vetores`, `matrizes`, `engenharia-de-software`, `projeto-academico`.
+O código está sob a [licença MIT](LICENSE).
